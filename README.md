@@ -1,1 +1,1 @@
-# Projeto-EDA_DadosCovid
+# Primeiro projeto da disciplina Estrutura de Dados e Algoritmos 
