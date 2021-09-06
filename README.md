@@ -4,7 +4,7 @@ Atividade que faz análise e comparação dos algoritmos de ordenação aplicado
 A aplicação ordena por Número de Casos, Numero de óbitos e Nomes das cidades, arquivos .csv e retorna outros arquivos já ordenados de forma crescente mostrando também o tempo de execução que cada algoritmo precisa para oredenar uma mesma entrada.
 
 # Executando o código 
-Ao baixar o projeto, vá até a linha 22 da classe Main e cole o diretório do arquivo .csv que seja ordenar, como na imagem abaixo.
+Ao baixar o projeto, vá até a linha 22 da classe Main e cole o diretório do arquivo .csv que deseja ordenar, como na imagem abaixo.
 Use o caminho do diretório conforme o sistema operacional de sua máquina. MacOS e Linux utilizam (/) e Windows (\\).
 ![git](https://user-images.githubusercontent.com/31939598/132149962-ea92dba1-9729-48de-b9b3-6c8786f34227.jpg)
 
